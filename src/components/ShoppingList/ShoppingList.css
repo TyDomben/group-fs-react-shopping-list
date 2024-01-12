@@ -1,0 +1,26 @@
+.listHeader {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.listDiv {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.itemDiv {
+    width: 10rem;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.itemDiv button {
+    margin: 0 5px;
+    width: 4rem;
+}
